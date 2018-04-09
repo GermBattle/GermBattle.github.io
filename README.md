@@ -16,12 +16,12 @@ Germ Battle is a shooting AR game.
   + 可爱的细菌，预想中细菌将全部由开发人员自己建模。
   + 丰富的关卡和有趣的流程，带你解开平时看不到的细菌的世界。
 + MDA分析
-  + Mechanics 规则
+  + Mechanics
     + 满足关卡条件（战斗/记录）
-  + Dynamics 设计: 多样化交互层面向玩家
+  + Dynamics
     + 可爱的细菌
     + 有趣的流程
-  + Aesthetics 乐趣: 八大基本乐趣
+  + Aesthetics
     + 有: 感官/叙事/挑战/探索/投入
     + 无: 幻想/伙伴/表达
 
