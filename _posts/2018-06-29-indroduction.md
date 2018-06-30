@@ -15,8 +15,11 @@ image: stupid.png
 ## Preview
 
 > Gif(假装有)
-> 
-> Video Url(假装有)
+ 
+<iframe src="//player.bilibili.com/player.html?aid=25838406&cid=44155425&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="
+    width: 100%;
+    height: 400px;
+"> </iframe>
 
 ## Feature
 
