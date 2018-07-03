@@ -7,7 +7,7 @@ tags: [design, team]
 image: stupid.png
 ---
 
-# Germ Battle Introduction
+# Germ Battle Introduction 
 
 + Name: Germ Battle
 + Short Introduction: A shooting AR game with many lovely germs
@@ -43,4 +43,13 @@ image: stupid.png
 + 使用AR技术，细菌将会在您的周围环境出现。
 + 可爱的细菌，预想中细菌全部由开发人员自己建模。
 + 丰富的关卡和有趣的流程，带你解开平时看不到的细菌的世界。
+
+## Team Introduction
+[团队简介](https://germbattle.github.io/pages/about.html)
+
+## Game Design Document
+[游戏设计文档链接](https://germbattle.github.io/design/design.html)
+
+## Game Download
+[游戏下载链接](https://github.com/GermBattle/GermBattle/releases/tag/0.1.1)
 
