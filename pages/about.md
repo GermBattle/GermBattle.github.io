@@ -3,7 +3,6 @@ layout: misc
 title: Team Introdution
 ---
 
-# Germ Battle Team Introduction
 
 - ### 吴林蔓 [wulinman](https://github.com/wulinman)
 
